@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
     private static final String TWITTER_KEY = "DaoGOxzNkwroRnHQVtj7V0SQ7";
     private static final String TWITTER_SECRET = "Sr4x4KGxzSS5uT453CDvuCDCgy0STIhcgsLaty5gCwlJAgegX3";
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
